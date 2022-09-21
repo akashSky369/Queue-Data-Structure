@@ -1,4 +1,3 @@
 # Queue-Data-Structure
 
-
-//IN THIS REPO I WILL BE DOING IMPLEMENTATION ABOUT QUEUE DATA STRUCTURE IN JAVA
+This Repo Contains Implementation Of Queue Data Structure Using Other Data Structures In Java
